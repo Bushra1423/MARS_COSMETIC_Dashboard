@@ -63,7 +63,9 @@ The dashboard provides a **360° view of brand performance**, covering:
 
 ## 📂 Project Structure
 
+
 <img width="577" height="375" alt="image" src="https://github.com/user-attachments/assets/bde5f0f7-4154-4318-9781-1aa53867293d" />
+
 
 
 
@@ -71,6 +73,7 @@ The dashboard provides a **360° view of brand performance**, covering:
 - 🔄 Built a **complete data pipeline**: web scraping → data cleaning → visualization  
 - 📊 Learned how **customer engagement metrics** shape product & marketing strategies  
 - 🚀 Demonstrated the power of **integrating Python + Power BI** for real-world analytics  
+
 
 
 
